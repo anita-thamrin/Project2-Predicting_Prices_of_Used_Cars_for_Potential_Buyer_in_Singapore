@@ -1,0 +1,401 @@
+,LISTING_URL,MAKE,PRICE,DEPRE_VALUE_PER_YEAR,REG_DATE,ENGINE_CAP_CC,MILEAGE_KM,VEHICLE_TYPE
+0,https://www.sgcarmart.com/used_cars/info.php?ID=926740&DL=3093,Kia,61800,8120.0,24-Apr-2017,1591,65000.0,Mid-Sized Sedan
+1,https://www.sgcarmart.com/used_cars/info.php?ID=921465&DL=2097,Subaru,60800,8810.0,26-Aug-2016,1600,82740.0,SUV
+2,https://www.sgcarmart.com/used_cars/info.php?ID=924961&DL=2689,BMW,72777,7300.0,25-Jan-2011,2497,149563.0,Luxury Sedan
+3,https://www.sgcarmart.com/used_cars/info.php?ID=926333&DL=2305,Volvo,48800,9990.0,20-Jun-2014,1560,120000.0,Luxury Sedan
+4,https://www.sgcarmart.com/used_cars/info.php?ID=926752&DL=2792,Toyota,58800,8800.0,06-Apr-2016,1598,49980.0,Mid-Sized Sedan
+5,https://www.sgcarmart.com/used_cars/info.php?ID=926631&DL=3626,Toyota,75800,9660.0,05-Jul-2017,1798,59337.0,MPV
+6,https://www.sgcarmart.com/used_cars/info.php?ID=926694&DL=1034,Toyota,75800,9870.0,05-May-2017,1797,,MPV
+7,https://www.sgcarmart.com/used_cars/info.php?ID=893687&DL=1277,Mitsubishi,53800,6250.0,26-Nov-2018,1193,65000.0,Mid-Sized Sedan
+8,https://www.sgcarmart.com/used_cars/info.php?ID=911185&DL=1198,Honda,34800,6960.0,27-Sep-2010,1497,117126.0,Mid-Sized Sedan
+9,https://www.sgcarmart.com/used_cars/info.php?ID=918538&DL=3287,BMW,80200,15850.0,27-Nov-2013,1997,130000.0,Luxury Sedan
+10,https://www.sgcarmart.com/used_cars/info.php?ID=892712&DL=2296,Lexus,126800,12510.0,09-Jan-2019,1987,13000.0,SUV
+11,https://www.sgcarmart.com/used_cars/info.php?ID=916807&DL=2021,Toyota,12700,7560.0,18-May-2007,1598,146000.0,Mid-Sized Sedan
+12,https://www.sgcarmart.com/used_cars/info.php?ID=884866&DL=3518,Toyota,166800,14920.0,15-Jan-2020,2493,7995.0,MPV
+13,https://www.sgcarmart.com/used_cars/info.php?ID=917652&DL=2341,Mercedes-Benz,66800,6680.0,16-Dec-2010,1796,,Luxury Sedan
+14,https://www.sgcarmart.com/used_cars/info.php?ID=926643&DL=1000,Toyota,11800,10930.0,11-Oct-2006,1998,147000.0,Luxury Sedan
+15,https://www.sgcarmart.com/used_cars/info.php?ID=917815&DL=1194,Kia,28800,5860.0,11-Aug-2010,1591,,Mid-Sized Sedan
+16,https://www.sgcarmart.com/used_cars/info.php?ID=924324&DL=2962,Hyundai,22800,6570.0,18-Mar-2009,2656,135000.0,SUV
+17,https://www.sgcarmart.com/used_cars/info.php?ID=913124&DL=3329,Mazda,45000,8700.0,25-Jun-2015,1496,101500.0,Mid-Sized Sedan
+18,https://www.sgcarmart.com/used_cars/info.php?ID=926719&DL=3298,Honda,17000,7380.0,09-Apr-2008,1339,130850.0,Mid-Sized Sedan
+19,https://www.sgcarmart.com/used_cars/info.php?ID=920850&DL=2296,Audi,45800,18780.0,28-Oct-2011,1984,133000.0,Sports Car
+20,https://www.sgcarmart.com/used_cars/info.php?ID=926608&DL=2954,Volkswagen,98888,13040.0,20-Sep-2016,1984,72000.0,Luxury Sedan
+21,https://www.sgcarmart.com/used_cars/info.php?ID=920210&DL=1149,Nissan,60888,8830.0,26-Oct-2016,1197,44545.0,SUV
+22,https://www.sgcarmart.com/used_cars/info.php?ID=898003&DL=3137,BMW,103000,10400.0,28-Dec-2018,1499,38300.0,Hatchback
+23,https://www.sgcarmart.com/used_cars/info.php?ID=926639&DL=2875,Porsche,157800,25290.0,19-Dec-2014,2967,65000.0,SUV
+24,https://www.sgcarmart.com/used_cars/info.php?ID=924198&DL=2296,Volkswagen,60800,8660.0,29-Jun-2016,1390,57000.0,Mid-Sized Sedan
+25,https://www.sgcarmart.com/used_cars/info.php?ID=914237&DL=2689,BMW,124777,21030.0,13-Dec-2013,2979,112356.0,Sports Car
+26,https://www.sgcarmart.com/used_cars/info.php?ID=926680&DL=2425,Kia,24800,6990.0,30-Mar-2009,1591,80168.0,Mid-Sized Sedan
+27,https://www.sgcarmart.com/used_cars/info.php?ID=892905&DL=3511,Honda,84800,8410.0,10-Mar-2020,1496,,Stationwagon
+28,https://www.sgcarmart.com/used_cars/info.php?ID=926706&DL=1354,BMW,83800,11700.0,29-Sep-2016,1496,89339.0,MPV
+29,https://www.sgcarmart.com/used_cars/info.php?ID=924822&DL=2083,Mercedes-Benz,56800,6790.0,20-Jan-2009,1796,156000.0,Luxury Sedan
+30,https://www.sgcarmart.com/used_cars/info.php?ID=926585&DL=3301,Toyota,69800,7000.0,17-Sep-2010,2362,,MPV
+31,https://www.sgcarmart.com/used_cars/info.php?ID=910327&DL=3403,Kia,29800,5960.0,28-Sep-2010,1591,140000.0,Mid-Sized Sedan
+32,https://www.sgcarmart.com/used_cars/info.php?ID=900785&DL=3293,Toyota,36888,14120.0,16-Jan-2012,2362,,MPV
+33,https://www.sgcarmart.com/used_cars/info.php?ID=915646&DL=3707,Toyota,21000,9190.0,27-Mar-2012,1497,300000.0,Hatchback
+34,https://www.sgcarmart.com/used_cars/info.php?ID=926760&DL=3003,Mercedes-Benz,88500,20370.0,21-Dec-2012,2997,68525.0,Luxury Sedan
+35,https://www.sgcarmart.com/used_cars/info.php?ID=924461&DL=1258,Hyundai,80800,10130.0,01-Dec-2017,1999,26580.0,SUV
+36,https://www.sgcarmart.com/used_cars/info.php?ID=926541&DL=2025,Nissan,66888,7360.0,07-Sep-2018,1598,32126.0,Mid-Sized Sedan
+37,https://www.sgcarmart.com/used_cars/info.php?ID=883100&DL=3511,Toyota,95800,9340.0,23-Jan-2020,1496,,MPV
+38,https://www.sgcarmart.com/used_cars/info.php?ID=923761&DL=1258,Hyundai,63800,8340.0,20-Jun-2017,1591,38105.0,Hatchback
+39,https://www.sgcarmart.com/used_cars/info.php?ID=919864&DL=2954,Audi,233888,24780.0,14-May-2018,2995,24800.0,Sports Car
+40,https://www.sgcarmart.com/used_cars/info.php?ID=926698&DL=3705,Subaru,86800,13560.0,29-Feb-2016,1998,52000.0,Sports Car
+41,https://www.sgcarmart.com/used_cars/info.php?ID=926539&DL=2025,Nissan,81888,10850.0,24-Jan-2017,1997,54236.0,SUV
+42,https://www.sgcarmart.com/used_cars/info.php?ID=926720&DL=2849,BMW,75200,11410.0,26-Feb-2016,1499,60140.0,Luxury Sedan
+43,https://www.sgcarmart.com/used_cars/info.php?ID=926769&DL=1292,Honda,66500,8560.0,22-Feb-2018,1496,,Stationwagon
+44,https://www.sgcarmart.com/used_cars/info.php?ID=926670&DL=3750,Mercedes-Benz,31800,9380.0,24-Feb-2009,1796,137182.0,Luxury Sedan
+45,https://www.sgcarmart.com/used_cars/info.php?ID=917686&DL=2725,Ford,77800,9630.0,30-Jun-2017,1498,19500.0,MPV
+46,https://www.sgcarmart.com/used_cars/info.php?ID=926009&DL=1000,Lexus,398800,44870.0,18-Aug-2017,4969,18900.0,Sports Car
+47,https://www.sgcarmart.com/used_cars/info.php?ID=897408&DL=3518,Toyota,132800,15160.0,27-Dec-2017,2493,52500.0,MPV
+48,https://www.sgcarmart.com/used_cars/info.php?ID=906120&DL=3722,Toyota,53800,7700.0,18-Jan-2017,1496,57000.0,Mid-Sized Sedan
+49,https://www.sgcarmart.com/used_cars/info.php?ID=923197&DL=2083,Chrysler,88800,9370.0,02-Dec-2016,2776,108000.0,MPV
+50,https://www.sgcarmart.com/used_cars/info.php?ID=926738&DL=1213,Mitsubishi,72800,10660.0,25-May-2016,2360,55126.0,SUV
+51,https://www.sgcarmart.com/used_cars/info.php?ID=924145&DL=1463,BMW,99999,12250.0,28-Jul-2017,1499,58000.0,SUV
+52,https://www.sgcarmart.com/used_cars/info.php?ID=917197&DL=2757,Audi,50800,11420.0,26-Jun-2014,1395,85000.0,Luxury Sedan
+53,https://www.sgcarmart.com/used_cars/info.php?ID=926577&DL=1000,Honda,65300,8080.0,04-Apr-2018,1496,48000.0,Stationwagon
+54,https://www.sgcarmart.com/used_cars/info.php?ID=917638&DL=2097,Honda,65800,8330.0,15-Jan-2018,1496,35089.0,Stationwagon
+55,https://www.sgcarmart.com/used_cars/info.php?ID=905352&DL=2397,Toyota,35800,8210.0,21-Jan-2010,1987,110192.0,MPV
+56,https://www.sgcarmart.com/used_cars/info.php?ID=924601&DL=3415,Kia,135800,13670.0,22-Mar-2019,1998,39500.0,Luxury Sedan
+57,https://www.sgcarmart.com/used_cars/info.php?ID=922811&DL=3722,Toyota,53800,9030.0,31-Aug-2015,1598,110231.0,Mid-Sized Sedan
+58,https://www.sgcarmart.com/used_cars/info.php?ID=921271&DL=3091,Toyota,98800,11590.0,14-Nov-2017,1986,37800.0,SUV
+59,https://www.sgcarmart.com/used_cars/info.php?ID=918904&DL=1194,Toyota,30800,6260.0,12-Aug-2010,1598,,Mid-Sized Sedan
+60,https://www.sgcarmart.com/used_cars/info.php?ID=920070&DL=3091,Honda,67800,8710.0,23-Aug-2017,1496,67001.0,SUV
+61,https://www.sgcarmart.com/used_cars/info.php?ID=915933&DL=3091,Honda,46800,9020.0,24-Jun-2015,1497,83107.0,Mid-Sized Sedan
+62,https://www.sgcarmart.com/used_cars/info.php?ID=926245&DL=2014,Citroen,54800,7320.0,02-Aug-2017,1199,32300.0,SUV
+63,https://www.sgcarmart.com/used_cars/info.php?ID=926676&DL=1000,Audi,236888,25710.0,03-Jun-2018,2480,46000.0,Sports Car
+64,https://www.sgcarmart.com/used_cars/info.php?ID=926756&DL=1127,Toyota,72800,8580.0,31-Jan-2018,1496,,MPV
+65,https://www.sgcarmart.com/used_cars/info.php?ID=925921&DL=1194,Toyota,38800,7760.0,20-Sep-2010,1987,,MPV
+66,https://www.sgcarmart.com/used_cars/info.php?ID=926660&DL=2834,Lexus,109888,14310.0,08-Aug-2016,1998,,SUV
+67,https://www.sgcarmart.com/used_cars/info.php?ID=921303&DL=2976,Porsche,100800,14170.0,23-Oct-2007,2687,73000.0,Sports Car
+68,https://www.sgcarmart.com/used_cars/info.php?ID=926782&DL=1269,Volkswagen,12500,,15-Sep-2010,1390,,Mid-Sized Sedan
+69,https://www.sgcarmart.com/used_cars/info.php?ID=926691&DL=1000,BMW,190000,19860.0,31-Oct-2018,1998,23000.0,SUV
+70,https://www.sgcarmart.com/used_cars/info.php?ID=926733&DL=3379,Toyota,99900,15640.0,29-Oct-2015,2493,,MPV
+71,https://www.sgcarmart.com/used_cars/info.php?ID=926703&DL=1135,Toyota,29800,7600.0,13-Aug-2009,1495,,SUV
+72,https://www.sgcarmart.com/used_cars/info.php?ID=893225&DL=3511,Honda,84800,8430.0,06-Mar-2020,1496,,Stationwagon
+73,https://www.sgcarmart.com/used_cars/info.php?ID=921039&DL=1194,Toyota,28800,5860.0,10-Aug-2010,1497,,Mid-Sized Sedan
+74,https://www.sgcarmart.com/used_cars/info.php?ID=926525&DL=1000,Honda,145000,16040.0,29-Dec-2017,1996,36100.0,Sports Car
+75,https://www.sgcarmart.com/used_cars/info.php?ID=926667&DL=3021,Toyota,4999,,11-Mar-2006,1794,,MPV
+76,https://www.sgcarmart.com/used_cars/info.php?ID=926454&DL=1000,Porsche,279888,27360.0,21-Dec-2018,1988,16000.0,Sports Car
+77,https://www.sgcarmart.com/used_cars/info.php?ID=905909&DL=3722,Honda,69800,11760.0,20-Jul-2015,2356,86512.0,MPV
+78,https://www.sgcarmart.com/used_cars/info.php?ID=926739&DL=3028,Mercedes-Benz,60800,6080.0,20-Dec-2010,1597,112000.0,Luxury Sedan
+79,https://www.sgcarmart.com/used_cars/info.php?ID=925047&DL=1269,Audi,162500,21820.0,13-Nov-2015,2995,93000.0,SUV
+80,https://www.sgcarmart.com/used_cars/info.php?ID=926686&DL=2651,Nissan,39500,8310.0,23-Oct-2014,1598,90363.0,Mid-Sized Sedan
+81,https://www.sgcarmart.com/used_cars/info.php?ID=919320&DL=3298,BMW,124800,17800.0,15-Oct-2015,1997,69759.0,SUV
+82,https://www.sgcarmart.com/used_cars/info.php?ID=926617&DL=3468,Nissan,72000,12480.0,21-Jul-2015,1997,35000.0,SUV
+83,https://www.sgcarmart.com/used_cars/info.php?ID=926339&DL=2305,Nissan,58800,9950.0,06-Aug-2015,1997,112000.0,SUV
+84,https://www.sgcarmart.com/used_cars/info.php?ID=908741&DL=2725,Mercedes-Benz,88800,14300.0,07-Apr-2015,1991,110000.0,Luxury Sedan
+85,https://www.sgcarmart.com/used_cars/info.php?ID=926669&DL=1120,Toyota,31500,10920.0,04-Aug-2008,2362,,MPV
+86,https://www.sgcarmart.com/used_cars/info.php?ID=923718&DL=1149,Renault,47888,8560.0,30-Dec-2015,1461,59000.0,Hatchback
+87,https://www.sgcarmart.com/used_cars/info.php?ID=926737&DL=2563,Lexus,160000,17920.0,31-Jul-2017,1998,57700.0,SUV
+88,https://www.sgcarmart.com/used_cars/info.php?ID=918762&DL=1104,Mercedes-Benz,99800,15360.0,14-May-2015,1991,88299.0,Luxury Sedan
+89,https://www.sgcarmart.com/used_cars/info.php?ID=926666&DL=2052,Toyota,81988,7770.0,11-Sep-2020,996,18.0,SUV
+90,https://www.sgcarmart.com/used_cars/info.php?ID=926438&DL=1000,Honda,43668,5280.0,16-Dec-2008,1799,,MPV
+91,https://www.sgcarmart.com/used_cars/info.php?ID=926716&DL=3600,Kia,29800,7120.0,17-Nov-2009,1591,,Mid-Sized Sedan
+92,https://www.sgcarmart.com/used_cars/info.php?ID=907440&DL=3707,Rolls-Royce,478000,47770.0,08-Mar-2012,6592,44867.0,Luxury Sedan
+93,https://www.sgcarmart.com/used_cars/info.php?ID=922059&DL=1292,Toyota,66900,8850.0,16-Feb-2017,1598,,Mid-Sized Sedan
+94,https://www.sgcarmart.com/used_cars/info.php?ID=926583&DL=1000,Suzuki,10500,6520.0,23-Apr-2007,1586,371542.0,Hatchback
+95,https://www.sgcarmart.com/used_cars/info.php?ID=896425&DL=3511,Toyota,106800,10610.0,25-Sep-2019,1797,,SUV
+96,https://www.sgcarmart.com/used_cars/info.php?ID=911373&DL=2954,BMW,102888,10920.0,24-May-2018,1499,58000.0,MPV
+97,https://www.sgcarmart.com/used_cars/info.php?ID=912488&DL=2954,Lexus,116888,13270.0,23-Nov-2017,2494,49000.0,Luxury Sedan
+98,https://www.sgcarmart.com/used_cars/info.php?ID=912115&DL=1000,BMW,51800,11650.0,30-Dec-2013,1598,113207.0,Luxury Sedan
+99,https://www.sgcarmart.com/used_cars/info.php?ID=922480&DL=2954,Nissan,186888,24760.0,29-Mar-2008,3799,78000.0,Sports Car
+100,https://www.sgcarmart.com/used_cars/info.php?ID=878641&DL=2296,Jaguar,93800,12990.0,29-Jul-2015,1999,70000.0,Luxury Sedan
+101,https://www.sgcarmart.com/used_cars/info.php?ID=926640&DL=1000,Honda,41588,5270.0,23-Apr-2009,1799,,MPV
+102,https://www.sgcarmart.com/used_cars/info.php?ID=870231&DL=3137,Volkswagen,126000,17060.0,31-Aug-2016,1984,71800.0,Sports Car
+103,https://www.sgcarmart.com/used_cars/info.php?ID=926609&DL=3160,Honda,29750,7230.0,22-Oct-2009,1595,86000.0,Mid-Sized Sedan
+104,https://www.sgcarmart.com/used_cars/info.php?ID=914455&DL=3091,Toyota,71800,8540.0,02-Jan-2018,1496,22919.0,MPV
+105,https://www.sgcarmart.com/used_cars/info.php?ID=917863&DL=3722,Honda,43800,9350.0,11-Feb-2015,1317,71350.0,Hatchback
+106,https://www.sgcarmart.com/used_cars/info.php?ID=926693&DL=3376,BMW,433888,36540.0,20-Aug-2020,2993,3000.0,SUV
+107,https://www.sgcarmart.com/used_cars/info.php?ID=918756&DL=3743,Honda,42800,8370.0,22-Oct-2005,2997,248000.0,MPV
+108,https://www.sgcarmart.com/used_cars/info.php?ID=917490&DL=3723,Toyota,74300,12040.0,17-Sep-2015,1986,83000.0,SUV
+109,https://www.sgcarmart.com/used_cars/info.php?ID=925456&DL=3722,Toyota,12800,8780.0,26-Feb-2007,1794,154702.0,MPV
+110,https://www.sgcarmart.com/used_cars/info.php?ID=919397&DL=2962,Honda,71800,11480.0,04-Sep-2015,2356,,MPV
+111,https://www.sgcarmart.com/used_cars/info.php?ID=900126&DL=2795,Honda,53800,5620.0,05-Apr-2010,1799,112000.0,MPV
+112,https://www.sgcarmart.com/used_cars/info.php?ID=923409&DL=3666,Kia,120588,11940.0,25-Apr-2019,2199,23000.0,SUV
+113,https://www.sgcarmart.com/used_cars/info.php?ID=921751&DL=1277,Toyota,59800,7620.0,07-Apr-2017,1496,47905.0,MPV
+114,https://www.sgcarmart.com/used_cars/info.php?ID=922492&DL=2296,Audi,58800,10940.0,19-May-2015,1395,79000.0,Luxury Sedan
+115,https://www.sgcarmart.com/used_cars/info.php?ID=926662&DL=2021,Toyota,18700,9030.0,08-Oct-2007,2362,167000.0,Luxury Sedan
+116,https://www.sgcarmart.com/used_cars/info.php?ID=923452&DL=3287,Volkswagen,76800,10990.0,29-Apr-2016,1390,80000.0,SUV
+117,https://www.sgcarmart.com/used_cars/info.php?ID=925841&DL=3118,Toyota,36800,,26-Nov-2010,3456,,MPV
+118,https://www.sgcarmart.com/used_cars/info.php?ID=926774&DL=2975,Honda,57500,6850.0,13-Feb-2009,1799,190000.0,Mid-Sized Sedan
+119,https://www.sgcarmart.com/used_cars/info.php?ID=926619&DL=3308,Volvo,59777,9880.0,28-Jul-2015,1560,97000.0,Luxury Sedan
+120,https://www.sgcarmart.com/used_cars/info.php?ID=926766&DL=1079,BMW,71800,7200.0,15-Oct-2010,2497,,Luxury Sedan
+121,https://www.sgcarmart.com/used_cars/info.php?ID=911641&DL=1277,Hyundai,67800,10000.0,23-Mar-2017,1580,81929.0,Hatchback
+122,https://www.sgcarmart.com/used_cars/info.php?ID=919315&DL=2875,Lexus,102800,13890.0,29-Jun-2016,1998,67000.0,Luxury Sedan
+123,https://www.sgcarmart.com/used_cars/info.php?ID=926626&DL=2341,Suzuki,16800,10290.0,08-May-2007,1590,112000.0,MPV
+124,https://www.sgcarmart.com/used_cars/info.php?ID=926732&DL=3415,MINI,30800,14340.0,22-Dec-2011,1598,88000.0,Hatchback
+125,https://www.sgcarmart.com/used_cars/info.php?ID=893368&DL=3511,Toyota,127800,11880.0,12-Mar-2020,1797,,MPV
+126,https://www.sgcarmart.com/used_cars/info.php?ID=919814&DL=1195,Hyundai,69800,7370.0,23-Apr-2019,1591,17142.0,Mid-Sized Sedan
+127,https://www.sgcarmart.com/used_cars/info.php?ID=926784&DL=3758,Honda,54800,6400.0,28-Jul-2009,2354,,Luxury Sedan
+128,https://www.sgcarmart.com/used_cars/info.php?ID=926652&DL=1344,Nissan,64800,8840.0,31-Mar-2017,1197,34954.0,SUV
+129,https://www.sgcarmart.com/used_cars/info.php?ID=914010&DL=3722,Toyota,69800,7350.0,29-Mar-2019,1496,22613.0,Mid-Sized Sedan
+130,https://www.sgcarmart.com/used_cars/info.php?ID=926697&DL=3376,BMW,228888,19900.0,24-Jul-2020,1998,3000.0,Mid-Sized Sedan
+131,https://www.sgcarmart.com/used_cars/info.php?ID=924853&DL=1194,Toyota,38800,7930.0,02-Aug-2010,1987,,MPV
+132,https://www.sgcarmart.com/used_cars/info.php?ID=924655&DL=2341,Honda,23800,9290.0,05-Apr-2008,1799,,MPV
+133,https://www.sgcarmart.com/used_cars/info.php?ID=926659&DL=2855,Toyota,80800,11910.0,28-Jan-2016,2362,,MPV
+134,https://www.sgcarmart.com/used_cars/info.php?ID=926717&DL=1000,Kia,78888,8210.0,19-Mar-2019,1591,17800.0,Mid-Sized Sedan
+135,https://www.sgcarmart.com/used_cars/info.php?ID=925433&DL=1189,BMW,99800,9970.0,27-Jun-2012,2497,120000.0,Sports Car
+136,https://www.sgcarmart.com/used_cars/info.php?ID=926674&DL=1005,Volkswagen,98800,10040.0,09-Jul-2019,1197,12000.0,Hatchback
+137,https://www.sgcarmart.com/used_cars/info.php?ID=923232&DL=1104,Audi,76800,12850.0,29-Jan-2015,1984,82838.0,Luxury Sedan
+138,https://www.sgcarmart.com/used_cars/info.php?ID=926770&DL=3417,Lexus,24800,9420.0,24-Jun-2008,2500,,Luxury Sedan
+139,https://www.sgcarmart.com/used_cars/info.php?ID=919893&DL=2447,Hyundai,49800,6250.0,25-Aug-2017,1591,43803.0,Mid-Sized Sedan
+140,https://www.sgcarmart.com/used_cars/info.php?ID=891135&DL=2296,Lexus,126800,11980.0,26-Jul-2019,1987,18500.0,SUV
+141,https://www.sgcarmart.com/used_cars/info.php?ID=916516&DL=3626,Toyota,67800,7410.0,30-Nov-2018,1496,31000.0,Mid-Sized Sedan
+142,https://www.sgcarmart.com/used_cars/info.php?ID=924946&DL=2962,Hyundai,24800,6120.0,10-Oct-2009,1591,148000.0,Hatchback
+143,https://www.sgcarmart.com/used_cars/info.php?ID=896121&DL=3511,Toyota,127800,11990.0,21-Feb-2020,1797,,MPV
+144,https://www.sgcarmart.com/used_cars/info.php?ID=926687&DL=1000,Mercedes-Benz,79800,7980.0,06-Jan-2011,2996,85000.0,Luxury Sedan
+145,https://www.sgcarmart.com/used_cars/info.php?ID=926587&DL=1266,Toyota,86800,13230.0,23-Dec-2015,2362,85989.0,MPV
+146,https://www.sgcarmart.com/used_cars/info.php?ID=926632&DL=3650,Porsche,128000,17720.0,22-Dec-2007,3387,39500.0,Sports Car
+147,https://www.sgcarmart.com/used_cars/info.php?ID=918641&DL=3091,Nissan,87800,10560.0,28-Sep-2017,1997,56600.0,SUV
+148,https://www.sgcarmart.com/used_cars/info.php?ID=926710&DL=1032,Chevrolet,44800,6900.0,16-Feb-2016,1598,29989.0,Mid-Sized Sedan
+149,https://www.sgcarmart.com/used_cars/info.php?ID=926721&DL=3754,Ford,24000,9430.0,27-Jun-2012,1596,193500.0,Stationwagon
+150,https://www.sgcarmart.com/used_cars/info.php?ID=923662&DL=3091,Volkswagen,71800,7200.0,06-Sep-2010,1984,145000.0,Sports Car
+151,https://www.sgcarmart.com/used_cars/info.php?ID=921723&DL=3723,Volkswagen,55800,5580.0,08-Sep-2010,1390,125000.0,MPV
+152,https://www.sgcarmart.com/used_cars/info.php?ID=924108&DL=1000,Toyota,8900,8390.0,04-Oct-2006,1794,,MPV
+153,https://www.sgcarmart.com/used_cars/info.php?ID=926678&DL=3368,Mercedes-Benz,62555,16280.0,24-Jul-2013,1991,125000.0,Hatchback
+154,https://www.sgcarmart.com/used_cars/info.php?ID=894492&DL=3511,Honda,73800,7550.0,31-Jan-2020,1317,,Hatchback
+155,https://www.sgcarmart.com/used_cars/info.php?ID=926722&DL=1277,Toyota,23800,7760.0,07-Oct-2008,1598,123946.0,Mid-Sized Sedan
+156,https://www.sgcarmart.com/used_cars/info.php?ID=908070&DL=2954,Mercedes-Benz,218888,23990.0,23-Nov-2017,2996,50000.0,SUV
+157,https://www.sgcarmart.com/used_cars/info.php?ID=917344&DL=3403,Mercedes-Benz,122800,13240.0,20-Apr-2018,1595,47000.0,Luxury Sedan
+158,https://www.sgcarmart.com/used_cars/info.php?ID=926765&DL=2266,Toyota,25800,7460.0,27-Feb-2009,1496,133399.0,Mid-Sized Sedan
+159,https://www.sgcarmart.com/used_cars/info.php?ID=926625&DL=2185,Porsche,268800,29020.0,01-Mar-2018,2997,19260.0,SUV
+160,https://www.sgcarmart.com/used_cars/info.php?ID=926205&DL=1000,Ferrari,448000,198870.0,05-Mar-2012,4497,,Sports Car
+161,https://www.sgcarmart.com/used_cars/info.php?ID=911170&DL=3456,Toyota,36888,6460.0,29-May-2006,1497,85000.0,Hatchback
+162,https://www.sgcarmart.com/used_cars/info.php?ID=920548&DL=2757,Volkswagen,73800,9500.0,31-Aug-2017,1395,36000.0,Hatchback
+163,https://www.sgcarmart.com/used_cars/info.php?ID=908098&DL=2003,Audi,283999,28200.0,29-Nov-2018,2995,17000.0,SUV
+164,https://www.sgcarmart.com/used_cars/info.php?ID=864981&DL=2296,Mercedes-Benz,315800,,,2999,5.0,Luxury Sedan
+165,https://www.sgcarmart.com/used_cars/info.php?ID=919350&DL=1104,Volkswagen,75800,11760.0,14-Jan-2015,1984,87100.0,MPV
+166,https://www.sgcarmart.com/used_cars/info.php?ID=926604&DL=3043,BMW,45000,12160.0,19-Mar-2013,1598,92000.0,Luxury Sedan
+167,https://www.sgcarmart.com/used_cars/info.php?ID=919023&DL=2757,BMW,56800,18320.0,22-Jun-2012,1997,96556.0,Luxury Sedan
+168,https://www.sgcarmart.com/used_cars/info.php?ID=926559&DL=2025,Nissan,76888,8830.0,26-Mar-2018,1197,26888.0,SUV
+169,https://www.sgcarmart.com/used_cars/info.php?ID=926658&DL=1000,Honda,48000,6290.0,29-Apr-2008,1595,93500.0,Mid-Sized Sedan
+170,https://www.sgcarmart.com/used_cars/info.php?ID=923911&DL=1104,Audi,99800,15620.0,10-Mar-2015,1984,59624.0,SUV
+171,https://www.sgcarmart.com/used_cars/info.php?ID=918783&DL=3721,Toyota,76999,9300.0,09-Oct-2017,1598,12000.0,Mid-Sized Sedan
+172,https://www.sgcarmart.com/used_cars/info.php?ID=926649&DL=2875,Volkswagen,85800,10510.0,03-Nov-2017,1598,51000.0,MPV
+173,https://www.sgcarmart.com/used_cars/info.php?ID=926712&DL=1000,Honda,5800,,10-Mar-2006,1668,137000.0,Hatchback
+174,https://www.sgcarmart.com/used_cars/info.php?ID=926671&DL=2290,Mercedes-Benz,110800,11610.0,23-Jan-2019,1595,23000.0,SUV
+175,https://www.sgcarmart.com/used_cars/info.php?ID=919535&DL=3722,Nissan,50800,8460.0,22-Sep-2015,1598,,Mid-Sized Sedan
+176,https://www.sgcarmart.com/used_cars/info.php?ID=926273&DL=2296,Audi,129800,13930.0,02-Feb-2018,1798,37000.0,Luxury Sedan
+177,https://www.sgcarmart.com/used_cars/info.php?ID=875606&DL=2296,Mercedes-Benz,325800,27260.0,19-Dec-2019,2999,5000.0,Luxury Sedan
+178,https://www.sgcarmart.com/used_cars/info.php?ID=917557&DL=3287,BMW,67800,6840.0,07-Sep-2010,2497,135000.0,Luxury Sedan
+179,https://www.sgcarmart.com/used_cars/info.php?ID=926762&DL=3464,Kia,34800,6960.0,20-Sep-2010,1591,93622.0,Sports Car
+180,https://www.sgcarmart.com/used_cars/info.php?ID=926713&DL=1015,Honda,51800,5180.0,04-Nov-2010,1595,,Mid-Sized Sedan
+181,https://www.sgcarmart.com/used_cars/info.php?ID=922360&DL=2397,Toyota,34800,6960.0,12-Nov-2010,1497,108208.0,Mid-Sized Sedan
+182,https://www.sgcarmart.com/used_cars/info.php?ID=926725&DL=1000,Volvo,30500,8890.0,24-Feb-2012,1596,166000.0,Luxury Sedan
+183,https://www.sgcarmart.com/used_cars/info.php?ID=926664&DL=2849,Mercedes-Benz,89600,15660.0,15-May-2015,1991,33429.0,Hatchback
+184,https://www.sgcarmart.com/used_cars/info.php?ID=926705&DL=1000,Toyota,145800,14970.0,10-Aug-2018,2493,63000.0,MPV
+185,https://www.sgcarmart.com/used_cars/info.php?ID=926673&DL=1094,Volkswagen,84800,11980.0,24-Nov-2015,1984,77162.0,MPV
+186,https://www.sgcarmart.com/used_cars/info.php?ID=920369&DL=3456,Subaru,26888,5370.0,24-Aug-2010,1498,,Mid-Sized Sedan
+187,https://www.sgcarmart.com/used_cars/info.php?ID=917488&DL=3465,Lexus,69000,14200.0,20-Dec-2013,2494,81000.0,Luxury Sedan
+188,https://www.sgcarmart.com/used_cars/info.php?ID=909765&DL=3456,Toyota,31888,6830.0,14-May-2010,1598,140000.0,Mid-Sized Sedan
+189,https://www.sgcarmart.com/used_cars/info.php?ID=925165&DL=2952,Volkswagen,35500,7100.0,08-Mar-2011,1595,116000.0,Hatchback
+190,https://www.sgcarmart.com/used_cars/info.php?ID=915038&DL=1194,Toyota,28800,5760.0,11-Aug-2010,1497,,Mid-Sized Sedan
+191,https://www.sgcarmart.com/used_cars/info.php?ID=918419&DL=2296,Mitsubishi,95800,10030.0,08-Apr-2019,1998,13000.0,SUV
+192,https://www.sgcarmart.com/used_cars/info.php?ID=918366&DL=2978,Citroen,74800,8580.0,01-Nov-2017,1560,49000.0,Stationwagon
+193,https://www.sgcarmart.com/used_cars/info.php?ID=926685&DL=1213,Volvo,71800,9560.0,28-Feb-2017,1498,58134.0,Hatchback
+194,https://www.sgcarmart.com/used_cars/info.php?ID=922133&DL=2795,Honda,75800,9810.0,01-Jun-2008,1998,,Sports Car
+195,https://www.sgcarmart.com/used_cars/info.php?ID=926247&DL=2014,Toyota,90800,8730.0,12-Nov-2019,1496,,MPV
+196,https://www.sgcarmart.com/used_cars/info.php?ID=926641&DL=3706,Hyundai,44800,7700.0,28-Jul-2015,1591,66000.0,Mid-Sized Sedan
+197,https://www.sgcarmart.com/used_cars/info.php?ID=926734&DL=3093,Volkswagen,57800,7960.0,14-Jun-2017,1197,90000.0,Hatchback
+198,https://www.sgcarmart.com/used_cars/info.php?ID=881908&DL=3511,Honda,100800,9800.0,20-Jan-2020,1496,,SUV
+199,https://www.sgcarmart.com/used_cars/info.php?ID=918754&DL=1104,Hyundai,70800,7330.0,25-Jun-2019,1591,5700.0,Mid-Sized Sedan
+200,https://www.sgcarmart.com/used_cars/info.php?ID=920137&DL=3666,Toyota,78888,11740.0,29-Feb-2016,1986,63000.0,SUV
+201,https://www.sgcarmart.com/used_cars/info.php?ID=887225&DL=3133,Volvo,128800,13940.0,20-Dec-2018,1969,39000.0,SUV
+202,https://www.sgcarmart.com/used_cars/info.php?ID=926683&DL=1000,Kia,68500,7260.0,12-Mar-2019,1591,29000.0,Mid-Sized Sedan
+203,https://www.sgcarmart.com/used_cars/info.php?ID=926764&DL=1032,Kia,15000,10860.0,28-Jun-2011,1591,137668.0,Mid-Sized Sedan
+204,https://www.sgcarmart.com/used_cars/info.php?ID=858583&DL=2759,Toyota,53500,10340.0,28-Nov-2014,1798,56000.0,MPV
+205,https://www.sgcarmart.com/used_cars/info.php?ID=919878&DL=3722,Honda,49800,8440.0,22-Oct-2015,1497,,Mid-Sized Sedan
+206,https://www.sgcarmart.com/used_cars/info.php?ID=926623&DL=1044,Mazda,66111,8970.0,23-Feb-2017,1496,29000.0,Hatchback
+207,https://www.sgcarmart.com/used_cars/info.php?ID=923753&DL=3133,BMW,68800,11080.0,20-Jun-2016,1496,75000.0,Hatchback
+208,https://www.sgcarmart.com/used_cars/info.php?ID=920048&DL=3091,Honda,76800,9940.0,24-Nov-2016,1496,72000.0,MPV
+209,https://www.sgcarmart.com/used_cars/info.php?ID=922072&DL=1104,Audi,74800,11460.0,28-Dec-2015,1798,73800.0,Luxury Sedan
+210,https://www.sgcarmart.com/used_cars/info.php?ID=926780&DL=3597,Honda,55800,8690.0,14-Jul-2016,1496,,SUV
+211,https://www.sgcarmart.com/used_cars/info.php?ID=925468&DL=3666,Citroen,59800,8160.0,26-Jul-2017,1560,44000.0,MPV
+212,https://www.sgcarmart.com/used_cars/info.php?ID=913957&DL=3707,Citroen,50800,8060.0,30-May-2016,1560,108000.0,MPV
+213,https://www.sgcarmart.com/used_cars/info.php?ID=926695&DL=3632,Mercedes-Benz,168888,15570.0,01-Nov-2019,1497,4800.0,Luxury Sedan
+214,https://www.sgcarmart.com/used_cars/info.php?ID=907479&DL=3721,Peugeot,57900,8560.0,04-Aug-2016,1560,,MPV
+215,https://www.sgcarmart.com/used_cars/info.php?ID=918274&DL=3722,Nissan,47800,7490.0,29-Sep-2016,1198,26744.0,Hatchback
+216,https://www.sgcarmart.com/used_cars/info.php?ID=915051&DL=2978,Jaguar,128800,13800.0,18-Jun-2018,1997,60000.0,SUV
+217,https://www.sgcarmart.com/used_cars/info.php?ID=912676&DL=1195,Honda,101000,12570.0,02-Mar-2017,2356,48155.0,MPV
+218,https://www.sgcarmart.com/used_cars/info.php?ID=926726&DL=1242,Mercedes-Benz,98800,15860.0,06-Nov-2015,1991,70000.0,Luxury Sedan
+219,https://www.sgcarmart.com/used_cars/info.php?ID=913248&DL=3456,Honda,23888,6320.0,22-Jun-2009,1496,121023.0,Stationwagon
+220,https://www.sgcarmart.com/used_cars/info.php?ID=921372&DL=2341,Mercedes-Benz,79800,7980.0,02-Mar-2011,1796,99000.0,Luxury Sedan
+221,https://www.sgcarmart.com/used_cars/info.php?ID=915674&DL=3666,Mazda,54800,8810.0,17-Nov-2015,1998,86000.0,MPV
+222,https://www.sgcarmart.com/used_cars/info.php?ID=926651&DL=1307,Mitsubishi,33800,10550.0,22-Mar-2013,1590,112290.0,Mid-Sized Sedan
+223,https://www.sgcarmart.com/used_cars/info.php?ID=923051&DL=1000,Mercedes-Benz,63800,6400.0,17-Sep-2010,1796,131881.0,Sports Car
+224,https://www.sgcarmart.com/used_cars/info.php?ID=919297&DL=1194,Kia,28800,5760.0,14-Sep-2010,1591,,Mid-Sized Sedan
+225,https://www.sgcarmart.com/used_cars/info.php?ID=925531&DL=3741,Kia,65500,7280.0,04-Dec-2018,1591,32560.0,Mid-Sized Sedan
+226,https://www.sgcarmart.com/used_cars/info.php?ID=926677&DL=3376,BMW,298888,25270.0,24-Jul-2020,2998,3000.0,SUV
+227,https://www.sgcarmart.com/used_cars/info.php?ID=918454&DL=3133,Jeep,159800,17840.0,27-Apr-2018,3604,36000.0,SUV
+228,https://www.sgcarmart.com/used_cars/info.php?ID=914709&DL=2978,BMW,79800,13870.0,28-Aug-2014,1997,120000.0,Luxury Sedan
+229,https://www.sgcarmart.com/used_cars/info.php?ID=893846&DL=3456,Honda,61888,7710.0,24-Nov-2017,1497,60000.0,Mid-Sized Sedan
+230,https://www.sgcarmart.com/used_cars/info.php?ID=921246&DL=3722,Nissan,40800,9050.0,21-Aug-2014,1598,,Mid-Sized Sedan
+231,https://www.sgcarmart.com/used_cars/info.php?ID=926633&DL=2927,Audi,160000,21180.0,31-Mar-2008,4163,75000.0,Sports Car
+232,https://www.sgcarmart.com/used_cars/info.php?ID=926702&DL=3632,Mercedes-Benz,152888,14390.0,01-Nov-2019,1595,1200.0,Luxury Sedan
+233,https://www.sgcarmart.com/used_cars/info.php?ID=926729&DL=3662,Mercedes-Benz,126800,16700.0,28-Sep-2016,1991,29000.0,Sports Car
+234,https://www.sgcarmart.com/used_cars/info.php?ID=926628&DL=2870,Lexus,97988,13610.0,29-Apr-2016,2494,65000.0,Luxury Sedan
+235,https://www.sgcarmart.com/used_cars/info.php?ID=926580&DL=1000,Mercedes-Benz,159888,13540.0,31-Aug-2020,1332,330.0,Luxury Sedan
+236,https://www.sgcarmart.com/used_cars/info.php?ID=925264&DL=3722,Toyota,75800,8710.0,28-May-2018,1496,46444.0,MPV
+237,https://www.sgcarmart.com/used_cars/info.php?ID=920683&DL=2725,Honda,67800,8250.0,11-May-2018,1496,36500.0,Stationwagon
+238,https://www.sgcarmart.com/used_cars/info.php?ID=926753&DL=3301,Mercedes-Benz,50000,13900.0,29-Mar-2012,1796,82000.0,Luxury Sedan
+239,https://www.sgcarmart.com/used_cars/info.php?ID=926615&DL=2572,Porsche,225800,23910.0,11-Apr-2018,1984,55800.0,SUV
+240,https://www.sgcarmart.com/used_cars/info.php?ID=926295&DL=3034,Mercedes-Benz,145900,16710.0,13-Nov-2017,1991,60000.0,SUV
+241,https://www.sgcarmart.com/used_cars/info.php?ID=926491&DL=3544,Nissan,62500,8860.0,22-Aug-2016,1997,55000.0,SUV
+242,https://www.sgcarmart.com/used_cars/info.php?ID=918648&DL=2138,Volkswagen,41800,4790.0,16-Dec-2009,1390,94943.0,Hatchback
+243,https://www.sgcarmart.com/used_cars/info.php?ID=926771&DL=3464,Mitsubishi,34800,6960.0,11-Nov-2010,1499,,Mid-Sized Sedan
+244,https://www.sgcarmart.com/used_cars/info.php?ID=926724&DL=3338,Suzuki,69700,7490.0,08-Jan-2019,998,23000.0,Hatchback
+245,https://www.sgcarmart.com/used_cars/info.php?ID=926745&DL=1213,Mercedes-Benz,113800,11600.0,19-Feb-2019,1595,27490.0,SUV
+246,https://www.sgcarmart.com/used_cars/info.php?ID=917026&DL=3403,Volkswagen,79800,11030.0,28-Feb-2017,1395,38000.0,Hatchback
+247,https://www.sgcarmart.com/used_cars/info.php?ID=912438&DL=3456,Kia,31500,6300.0,22-Jul-2010,1591,164288.0,Sports Car
+248,https://www.sgcarmart.com/used_cars/info.php?ID=912825&DL=2757,Subaru,79800,10210.0,05-May-2017,2498,64000.0,SUV
+249,https://www.sgcarmart.com/used_cars/info.php?ID=926735&DL=2224,Honda,85800,11790.0,07-Jun-2016,2356,45000.0,MPV
+250,https://www.sgcarmart.com/used_cars/info.php?ID=926598&DL=3371,Volkswagen,38800,7760.0,10-Dec-2010,1390,152000.0,Hatchback
+251,https://www.sgcarmart.com/used_cars/info.php?ID=922193&DL=1149,Mercedes-Benz,65888,6590.0,27-Apr-2011,1597,100000.0,Luxury Sedan
+252,https://www.sgcarmart.com/used_cars/info.php?ID=926728&DL=2015,Toyota,69800,11500.0,11-Aug-2015,1986,110000.0,MPV
+253,https://www.sgcarmart.com/used_cars/info.php?ID=926650&DL=2849,Toyota,67100,7410.0,26-Oct-2018,1496,25664.0,Mid-Sized Sedan
+254,https://www.sgcarmart.com/used_cars/info.php?ID=914763&DL=2296,Volvo,60800,9950.0,11-Nov-2015,1498,89000.0,Hatchback
+255,https://www.sgcarmart.com/used_cars/info.php?ID=815672&DL=1277,Mercedes-Benz,61888,7160.0,15-Jun-2010,1796,85000.0,Luxury Sedan
+256,https://www.sgcarmart.com/used_cars/info.php?ID=920496&DL=2954,Volvo,78888,13880.0,24-Feb-2015,1969,70000.0,SUV
+257,https://www.sgcarmart.com/used_cars/info.php?ID=924132&DL=1198,Honda,54800,6340.0,05-Jun-2009,1799,133226.0,SUV
+258,https://www.sgcarmart.com/used_cars/info.php?ID=925260&DL=3722,Honda,52800,9520.0,06-Oct-2015,1496,52910.0,SUV
+259,https://www.sgcarmart.com/used_cars/info.php?ID=926655&DL=3318,Audi,63800,8990.0,29-Apr-2017,999,37000.0,Hatchback
+260,https://www.sgcarmart.com/used_cars/info.php?ID=918916&DL=3723,Toyota,74800,7480.0,23-Mar-2011,2362,135000.0,MPV
+261,https://www.sgcarmart.com/used_cars/info.php?ID=921982&DL=3666,Audi,123388,14970.0,11-Jul-2017,1984,50000.0,Luxury Sedan
+262,https://www.sgcarmart.com/used_cars/info.php?ID=919881&DL=1104,BMW,58800,12210.0,06-Jun-2014,1598,98800.0,Luxury Sedan
+263,https://www.sgcarmart.com/used_cars/info.php?ID=926546&DL=1000,Audi,120000,13070.0,22-May-2018,1984,31300.0,Luxury Sedan
+264,https://www.sgcarmart.com/used_cars/info.php?ID=926638&DL=1013,Mercedes-Benz,82800,20400.0,17-Sep-2012,2997,43000.0,Luxury Sedan
+265,https://www.sgcarmart.com/used_cars/info.php?ID=879835&DL=2952,Mercedes-Benz,71600,7700.0,28-Dec-2009,1796,117500.0,Luxury Sedan
+266,https://www.sgcarmart.com/used_cars/info.php?ID=926744&DL=1460,Audi,107000,15780.0,20-Mar-2015,2773,54200.0,Luxury Sedan
+267,https://www.sgcarmart.com/used_cars/info.php?ID=922751&DL=2434,Toyota,47500,8980.0,09-Apr-2015,1598,75000.0,Mid-Sized Sedan
+268,https://www.sgcarmart.com/used_cars/info.php?ID=922666&DL=3091,Mitsubishi,48800,8140.0,09-Dec-2015,1590,78013.0,Mid-Sized Sedan
+269,https://www.sgcarmart.com/used_cars/info.php?ID=926727&DL=3632,Mercedes-Benz,195888,17470.0,01-Nov-2019,1991,4500.0,Luxury Sedan
+270,https://www.sgcarmart.com/used_cars/info.php?ID=926663&DL=2768,Volkswagen,52800,11810.0,17-Oct-2014,1395,46000.0,Hatchback
+271,https://www.sgcarmart.com/used_cars/info.php?ID=926781&DL=1000,Audi,96500,9640.0,28-Sep-2010,2995,134000.0,SUV
+272,https://www.sgcarmart.com/used_cars/info.php?ID=923087&DL=3193,Suzuki,29500,5900.0,26-Aug-2010,1490,93200.0,Mid-Sized Sedan
+273,https://www.sgcarmart.com/used_cars/info.php?ID=920372&DL=2296,Volvo,134800,14600.0,25-Oct-2018,1969,24000.0,SUV
+274,https://www.sgcarmart.com/used_cars/info.php?ID=926637&DL=2633,BMW,49800,13380.0,02-Jul-2013,1598,90000.0,Luxury Sedan
+275,https://www.sgcarmart.com/used_cars/info.php?ID=909944&DL=1168,Toyota,32800,6730.0,28-Jul-2010,1497,,Mid-Sized Sedan
+276,https://www.sgcarmart.com/used_cars/info.php?ID=876456&DL=3091,Suzuki,59111,7970.0,27-Dec-2016,1586,70000.0,SUV
+277,https://www.sgcarmart.com/used_cars/info.php?ID=917196&DL=1194,Honda,29800,6060.0,12-Aug-2010,1339,,Hatchback
+278,https://www.sgcarmart.com/used_cars/info.php?ID=915356&DL=3133,Citroen,40800,7840.0,26-Jun-2015,1560,83000.0,MPV
+279,https://www.sgcarmart.com/used_cars/info.php?ID=924819&DL=1000,Mercedes-Benz,36800,,23-Nov-2010,1796,200000.0,Luxury Sedan
+280,https://www.sgcarmart.com/used_cars/info.php?ID=926751&DL=2291,Toyota,88800,11290.0,27-Mar-2017,1986,43000.0,SUV
+281,https://www.sgcarmart.com/used_cars/info.php?ID=926679&DL=3712,Toyota,90800,8600.0,10-Dec-2019,1598,6500.0,Mid-Sized Sedan
+282,https://www.sgcarmart.com/used_cars/info.php?ID=914002&DL=3722,Toyota,71800,9790.0,04-Jan-2017,1798,62372.0,MPV
+283,https://www.sgcarmart.com/used_cars/info.php?ID=926331&DL=2305,BMW,55800,16620.0,05-Nov-2012,1997,120000.0,Luxury Sedan
+284,https://www.sgcarmart.com/used_cars/info.php?ID=926741&DL=2029,Mazda,54800,8290.0,16-Aug-2016,1496,39600.0,Mid-Sized Sedan
+285,https://www.sgcarmart.com/used_cars/info.php?ID=922727&DL=1104,Kia,25800,6520.0,27-Aug-2009,1591,128800.0,Mid-Sized Sedan
+286,https://www.sgcarmart.com/used_cars/info.php?ID=901645&DL=3721,Porsche,96800,104530.0,20-Apr-2011,2995,,SUV
+287,https://www.sgcarmart.com/used_cars/info.php?ID=926708&DL=1015,Honda,53800,8960.0,11-Feb-2016,1498,85141.0,Hatchback
+288,https://www.sgcarmart.com/used_cars/info.php?ID=905010&DL=2296,Volvo,118800,14950.0,24-Feb-2017,1969,52000.0,Luxury Sedan
+289,https://www.sgcarmart.com/used_cars/info.php?ID=919111&DL=1000,Mercedes-Benz,40800,14970.0,11-Jun-2012,1597,81100.0,Luxury Sedan
+290,https://www.sgcarmart.com/used_cars/info.php?ID=926763&DL=1079,BMW,57800,10750.0,27-Feb-2015,1499,,Hatchback
+291,https://www.sgcarmart.com/used_cars/info.php?ID=926759&DL=1079,Land,118800,15550.0,25-Sep-2015,1999,,SUV
+292,https://www.sgcarmart.com/used_cars/info.php?ID=926612&DL=3405,BMW,121000,11350.0,28-Feb-2020,1499,177.0,MPV
+293,https://www.sgcarmart.com/used_cars/info.php?ID=922715&DL=1104,Mercedes-Benz,104800,15380.0,05-Aug-2015,1991,82800.0,Luxury Sedan
+294,https://www.sgcarmart.com/used_cars/info.php?ID=917611&DL=3666,Honda,57800,8700.0,20-Jan-2017,1496,,Stationwagon
+295,https://www.sgcarmart.com/used_cars/info.php?ID=924652&DL=2341,Toyota,20800,11720.0,22-Jun-2007,2362,,MPV
+296,https://www.sgcarmart.com/used_cars/info.php?ID=926748&DL=2052,Toyota,103800,15430.0,28-Dec-2015,2493,98100.0,MPV
+297,https://www.sgcarmart.com/used_cars/info.php?ID=917020&DL=1269,Porsche,214999,23930.0,01-Dec-2017,1984,,SUV
+298,https://www.sgcarmart.com/used_cars/info.php?ID=914759&DL=2296,Nissan,58800,8950.0,25-Jun-2016,1197,49000.0,SUV
+299,https://www.sgcarmart.com/used_cars/info.php?ID=926593&DL=1198,Mitsubishi,28800,7140.0,23-Sep-2009,1499,133243.0,Mid-Sized Sedan
+300,https://www.sgcarmart.com/used_cars/info.php?ID=919741&DL=3721,Toyota,69999,8480.0,13-Dec-2008,3456,,Luxury Sedan
+301,https://www.sgcarmart.com/used_cars/info.php?ID=925199&DL=3194,Toyota,45800,6430.0,26-Oct-2007,1998,119600.0,Luxury Sedan
+302,https://www.sgcarmart.com/used_cars/info.php?ID=909364&DL=2296,Ferrari,438800,43860.0,09-Sep-2010,4497,60000.0,Sports Car
+303,https://www.sgcarmart.com/used_cars/info.php?ID=924952&DL=3707,Kia,62800,11360.0,23-Oct-2014,2359,95000.0,SUV
+304,https://www.sgcarmart.com/used_cars/info.php?ID=924649&DL=2097,Mercedes-Benz,41300,15020.0,21-Jun-2012,1597,95032.0,Luxury Sedan
+305,https://www.sgcarmart.com/used_cars/info.php?ID=906192&DL=3518,Toyota,66800,11770.0,21-May-2015,1986,79900.0,MPV
+306,https://www.sgcarmart.com/used_cars/info.php?ID=926337&DL=1000,Suzuki,9000,11250.0,14-Sep-2006,1328,133000.0,SUV
+307,https://www.sgcarmart.com/used_cars/info.php?ID=924732&DL=1463,Skoda,73999,7670.0,13-Mar-2019,1395,21000.0,Hatchback
+308,https://www.sgcarmart.com/used_cars/info.php?ID=926642&DL=1000,Mercedes-Benz,23500,10920.0,26-Sep-2011,1498,160000.0,Hatchback
+309,https://www.sgcarmart.com/used_cars/info.php?ID=926736&DL=3287,Mercedes-Benz,166600,14780.0,20-Mar-2020,1332,5000.0,Luxury Sedan
+310,https://www.sgcarmart.com/used_cars/info.php?ID=894822&DL=2875,Nissan,178800,24760.0,12-Apr-2008,3799,113000.0,Sports Car
+311,https://www.sgcarmart.com/used_cars/info.php?ID=926514&DL=1001,Toyota,39800,7960.0,18-Oct-2010,1998,147631.0,Luxury Sedan
+312,https://www.sgcarmart.com/used_cars/info.php?ID=923035&DL=3368,BMW,59555,11570.0,30-Oct-2014,1598,106000.0,Luxury Sedan
+313,https://www.sgcarmart.com/used_cars/info.php?ID=926761&DL=1079,BMW,96800,11240.0,16-Nov-2017,1499,69400.0,MPV
+314,https://www.sgcarmart.com/used_cars/info.php?ID=924548&DL=1000,Mercedes-Benz,82800,8300.0,08-Sep-2010,2996,117988.0,Luxury Sedan
+315,https://www.sgcarmart.com/used_cars/info.php?ID=918967&DL=1127,Toyota,83000,9710.0,09-Feb-2018,1797,,MPV
+316,https://www.sgcarmart.com/used_cars/info.php?ID=907647&DL=2296,Mercedes-Benz,152800,17020.0,27-Sep-2017,1991,37000.0,Luxury Sedan
+317,https://www.sgcarmart.com/used_cars/info.php?ID=914243&DL=3091,Toyota,58800,9420.0,14-Aug-2015,1798,,MPV
+318,https://www.sgcarmart.com/used_cars/info.php?ID=922514&DL=2689,MINI,48777,5600.0,29-May-2009,1598,,Hatchback
+319,https://www.sgcarmart.com/used_cars/info.php?ID=905458&DL=3403,BMW,70800,7230.0,28-Jun-2010,2497,174000.0,Luxury Sedan
+320,https://www.sgcarmart.com/used_cars/info.php?ID=926653&DL=1034,Toyota,47800,7300.0,30-Mar-2007,2362,,MPV
+321,https://www.sgcarmart.com/used_cars/info.php?ID=921338&DL=3415,Honda,69800,8400.0,28-May-2009,1998,185000.0,Sports Car
+322,https://www.sgcarmart.com/used_cars/info.php?ID=920722&DL=2552,Mazda,102888,10920.0,11-Sep-2018,1998,40000.0,SUV
+323,https://www.sgcarmart.com/used_cars/info.php?ID=925226&DL=2305,Audi,69800,11220.0,30-Dec-2015,1395,41000.0,Luxury Sedan
+324,https://www.sgcarmart.com/used_cars/info.php?ID=914755&DL=3091,Hyundai,52800,5570.0,23-Jan-2019,1591,19000.0,Mid-Sized Sedan
+325,https://www.sgcarmart.com/used_cars/info.php?ID=920980&DL=2952,BMW,97800,10080.0,28-Sep-2018,1499,12000.0,Hatchback
+326,https://www.sgcarmart.com/used_cars/info.php?ID=924578&DL=2795,Mazda,64800,8790.0,31-Mar-2017,1496,50000.0,Hatchback
+327,https://www.sgcarmart.com/used_cars/info.php?ID=926689&DL=3541,Honda,36800,8410.0,09-Oct-2014,1318,98000.0,Hatchback
+328,https://www.sgcarmart.com/used_cars/info.php?ID=926746&DL=2052,Mercedes-Benz,112000,13460.0,29-Mar-2017,1991,58000.0,Luxury Sedan
+329,https://www.sgcarmart.com/used_cars/info.php?ID=926554&DL=2790,Mercedes-Benz,79800,7980.0,16-Dec-2010,1796,122800.0,Luxury Sedan
+330,https://www.sgcarmart.com/used_cars/info.php?ID=926523&DL=3028,BMW,375000,39810.0,10-Feb-2020,4395,7000.0,Sports Car
+331,https://www.sgcarmart.com/used_cars/info.php?ID=920149&DL=3447,Hyundai,25800,10370.0,28-Jun-2012,1591,128123.0,Mid-Sized Sedan
+332,https://www.sgcarmart.com/used_cars/info.php?ID=904013&DL=3626,Peugeot,51888,8030.0,25-May-2016,1560,86800.0,SUV
+333,https://www.sgcarmart.com/used_cars/info.php?ID=888788&DL=1027,Honda,42000,5420.0,09-Jun-2008,1799,,MPV
+334,https://www.sgcarmart.com/used_cars/info.php?ID=926742&DL=2026,Honda,64800,8740.0,01-Aug-2017,1496,11063.0,SUV
+335,https://www.sgcarmart.com/used_cars/info.php?ID=926743&DL=2817,Toyota,43800,5730.0,02-Jun-2008,1496,153000.0,MPV
+336,https://www.sgcarmart.com/used_cars/info.php?ID=923896&DL=3722,Volkswagen,56800,5680.0,07-Jan-2011,1390,135368.0,Sports Car
+337,https://www.sgcarmart.com/used_cars/info.php?ID=917273&DL=2083,Mercedes-Benz,59800,,30-Jul-2008,3498,178000.0,MPV
+338,https://www.sgcarmart.com/used_cars/info.php?ID=920869&DL=1000,Mercedes-Benz,92000,9190.0,21-Jul-2011,1796,,Sports Car
+339,https://www.sgcarmart.com/used_cars/info.php?ID=865358&DL=2296,BMW,535800,,,4395,5.0,Sports Car
+340,https://www.sgcarmart.com/used_cars/info.php?ID=926723&DL=2282,BMW,133800,18390.0,30-Apr-2015,2996,57000.0,Luxury Sedan
+341,https://www.sgcarmart.com/used_cars/info.php?ID=920465&DL=3730,BMW,51500,13910.0,21-May-2013,1598,85000.0,Luxury Sedan
+342,https://www.sgcarmart.com/used_cars/info.php?ID=926657&DL=3714,Honda,53800,8600.0,18-Apr-2016,1498,55000.0,Hatchback
+343,https://www.sgcarmart.com/used_cars/info.php?ID=907103&DL=2296,Volvo,120800,15010.0,03-Apr-2017,1969,29000.0,Luxury Sedan
+344,https://www.sgcarmart.com/used_cars/info.php?ID=891531&DL=3415,Mercedes-Benz,113500,14990.0,08-Jan-2016,1991,76000.0,Luxury Sedan
+345,https://www.sgcarmart.com/used_cars/info.php?ID=926754&DL=1000,Maserati,167000,26510.0,24-Oct-2014,2979,69000.0,Luxury Sedan
+346,https://www.sgcarmart.com/used_cars/info.php?ID=924579&DL=1104,Toyota,43800,4840.0,09-Nov-2009,1496,122800.0,Mid-Sized Sedan
+347,https://www.sgcarmart.com/used_cars/info.php?ID=926711&DL=1005,Toyota,64800,9460.0,13-Apr-2017,1496,56000.0,MPV
+348,https://www.sgcarmart.com/used_cars/info.php?ID=926590&DL=2008,BMW,85888,8580.0,07-Dec-2010,2979,103000.0,Luxury Sedan
+349,https://www.sgcarmart.com/used_cars/info.php?ID=892574&DL=3666,Mazda,72800,9910.0,14-Nov-2016,1998,52700.0,MPV
+350,https://www.sgcarmart.com/used_cars/info.php?ID=922689&DL=1027,Mercedes-Benz,40000,13900.0,26-Jun-2012,1597,,Luxury Sedan
+351,https://www.sgcarmart.com/used_cars/info.php?ID=914603&DL=3287,Honda,6900,8630.0,26-Aug-2006,1496,,Stationwagon
+352,https://www.sgcarmart.com/used_cars/info.php?ID=917355&DL=3570,Jaguar,90888,11080.0,29-Dec-2016,1999,89000.0,Luxury Sedan
+353,https://www.sgcarmart.com/used_cars/info.php?ID=926681&DL=2494,Nissan,41800,8790.0,30-Sep-2014,1798,88787.0,Mid-Sized Sedan
+354,https://www.sgcarmart.com/used_cars/info.php?ID=921547&DL=1198,Honda,36800,7460.0,18-Aug-2010,1799,133272.0,MPV
+355,https://www.sgcarmart.com/used_cars/info.php?ID=924033&DL=3160,Mercedes-Benz,77300,15040.0,02-Oct-2014,1595,59000.0,Sports Car
+356,https://www.sgcarmart.com/used_cars/info.php?ID=926620&DL=1032,Toyota,101800,11600.0,27-Nov-2017,1986,41839.0,SUV
+357,https://www.sgcarmart.com/used_cars/info.php?ID=921188&DL=2083,Mitsubishi,68800,10090.0,18-May-2016,2360,79100.0,SUV
+358,https://www.sgcarmart.com/used_cars/info.php?ID=923104&DL=2795,Volkswagen,33800,6760.0,01-Oct-2010,1390,118000.0,Mid-Sized Sedan
+359,https://www.sgcarmart.com/used_cars/info.php?ID=921092&DL=2725,Volkswagen,38800,7760.0,11-Jan-2011,1390,93000.0,Sports Car
+360,https://www.sgcarmart.com/used_cars/info.php?ID=926654&DL=1045,Toyota,24800,6690.0,28-May-2009,1598,133500.0,Mid-Sized Sedan
+361,https://www.sgcarmart.com/used_cars/info.php?ID=923492&DL=3707,Nissan,57000,8810.0,16-May-2016,1197,61000.0,SUV
+362,https://www.sgcarmart.com/used_cars/info.php?ID=916992&DL=1195,Volkswagen,42000,9500.0,29-Aug-2014,1390,92017.0,Mid-Sized Sedan
+363,https://www.sgcarmart.com/used_cars/info.php?ID=926592&DL=3730,Lamborghini,288800,29200.0,08-Sep-2010,5204,49000.0,Sports Car
+364,https://www.sgcarmart.com/used_cars/info.php?ID=918671&DL=1198,Toyota,25800,7260.0,15-Apr-2009,1598,161267.0,Mid-Sized Sedan
+365,https://www.sgcarmart.com/used_cars/info.php?ID=921353&DL=1111,Toyota,135800,15810.0,11-Jul-2017,2494,52000.0,MPV
+366,https://www.sgcarmart.com/used_cars/info.php?ID=922627&DL=1194,Toyota,56800,5710.0,23-Aug-2010,1987,,MPV
+367,https://www.sgcarmart.com/used_cars/info.php?ID=920947&DL=2296,Lexus,113800,14750.0,09-Sep-2016,1998,65000.0,SUV
+368,https://www.sgcarmart.com/used_cars/info.php?ID=916897&DL=3091,Hyundai,66800,7400.0,12-Nov-2018,1591,20872.0,Mid-Sized Sedan
+369,https://www.sgcarmart.com/used_cars/info.php?ID=926661&DL=2954,Volkswagen,58888,5890.0,05-Jan-2011,1390,97000.0,Sports Car
+370,https://www.sgcarmart.com/used_cars/info.php?ID=911830&DL=3091,Nissan,71800,8920.0,30-Nov-2017,1197,39000.0,SUV
+371,https://www.sgcarmart.com/used_cars/info.php?ID=926616&DL=1032,Toyota,12900,7730.0,14-May-2007,1794,143602.0,MPV
+372,https://www.sgcarmart.com/used_cars/info.php?ID=896676&DL=3511,Toyota,95800,9250.0,25-Feb-2020,1496,,MPV
+373,https://www.sgcarmart.com/used_cars/info.php?ID=926747&DL=1107,Hyundai,59800,8240.0,18-Nov-2016,1591,79000.0,Mid-Sized Sedan
+374,https://www.sgcarmart.com/used_cars/info.php?ID=918165&DL=3318,Maserati,243800,28680.0,30-Jun-2015,4691,29000.0,Sports Car
+375,https://www.sgcarmart.com/used_cars/info.php?ID=920873&DL=2954,Mercedes-Benz,110888,13330.0,23-Aug-2017,1595,23000.0,SUV
+376,https://www.sgcarmart.com/used_cars/info.php?ID=926386&DL=1054,Nissan,71800,9190.0,14-Sep-2017,1197,48255.0,SUV
+377,https://www.sgcarmart.com/used_cars/info.php?ID=917623&DL=3666,Toyota,66000,8120.0,08-Mar-2018,1496,46000.0,Hatchback
+378,https://www.sgcarmart.com/used_cars/info.php?ID=926709&DL=3376,BMW,293888,25550.0,24-Jul-2020,2998,3000.0,Luxury Sedan
+379,https://www.sgcarmart.com/used_cars/info.php?ID=926552&DL=3371,Mercedes-Benz,198000,20020.0,06-Mar-1963,2195,,Luxury Sedan
+380,https://www.sgcarmart.com/used_cars/info.php?ID=926447&DL=1009,BMW,65800,11050.0,10-Mar-2016,1496,84074.0,Hatchback
+381,https://www.sgcarmart.com/used_cars/info.php?ID=924937&DL=2962,Perodua,22800,4560.0,24-Sep-2010,989,85000.0,Hatchback
+382,https://www.sgcarmart.com/used_cars/info.php?ID=921559&DL=2077,Nissan,61800,8670.0,12-Jan-2017,1197,92120.0,SUV
+383,https://www.sgcarmart.com/used_cars/info.php?ID=926704&DL=3093,BMW,69800,10550.0,25-Oct-2016,1496,70000.0,Hatchback
+384,https://www.sgcarmart.com/used_cars/info.php?ID=919618&DL=2296,BMW,91800,13330.0,14-Jul-2016,1499,67000.0,SUV
+385,https://www.sgcarmart.com/used_cars/info.php?ID=926731&DL=2266,Honda,21800,6380.0,11-Feb-2009,1339,116339.0,Hatchback
+386,https://www.sgcarmart.com/used_cars/info.php?ID=926665&DL=3401,Honda,85800,12160.0,01-Oct-2007,1998,146000.0,Sports Car
+387,https://www.sgcarmart.com/used_cars/info.php?ID=924917&DL=1027,Mercedes-Benz,54500,13940.0,24-Jun-2013,1595,123000.0,Luxury Sedan
+388,https://www.sgcarmart.com/used_cars/info.php?ID=926700&DL=3318,Mazda,34800,6960.0,16-Sep-2010,1498,88000.0,Hatchback
+389,https://www.sgcarmart.com/used_cars/info.php?ID=920921&DL=3730,Lamborghini,289800,28960.0,08-Jan-2011,5204,30800.0,Sports Car
+390,https://www.sgcarmart.com/used_cars/info.php?ID=926692&DL=3541,Honda,39800,8240.0,17-Mar-2015,1498,,Hatchback
+391,https://www.sgcarmart.com/used_cars/info.php?ID=892040&DL=1027,BMW,41500,15800.0,10-Jan-2012,2497,125000.0,Luxury Sedan
+392,https://www.sgcarmart.com/used_cars/info.php?ID=908994&DL=3518,Mercedes-Benz,77800,7780.0,14-Sep-2010,1796,110000.0,Luxury Sedan
+393,https://www.sgcarmart.com/used_cars/info.php?ID=919229&DL=2077,Toyota,77800,11980.0,10-Dec-2015,1986,79207.0,SUV
+394,https://www.sgcarmart.com/used_cars/info.php?ID=857524&DL=1292,Toyota,67900,9310.0,20-Sep-2017,1797,,SUV
+395,https://www.sgcarmart.com/used_cars/info.php?ID=923476&DL=3133,BMW,33800,11330.0,28-Jun-2012,1598,92300.0,Hatchback
+396,https://www.sgcarmart.com/used_cars/info.php?ID=914699&DL=3293,Honda,25800,6810.0,25-Jun-2009,1339,,Hatchback
+397,https://www.sgcarmart.com/used_cars/info.php?ID=912721&DL=2954,Honda,66888,6690.0,25-Oct-2011,2354,108000.0,MPV
+398,https://www.sgcarmart.com/used_cars/info.php?ID=926699&DL=3592,Volkswagen,51600,9310.0,30-Sep-2015,1395,30000.0,Hatchback
+399,https://www.sgcarmart.com/used_cars/info.php?ID=925557&DL=2951,Honda,67800,8520.0,19-Dec-2017,1496,74269.0,SUV
